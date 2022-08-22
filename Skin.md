@@ -1,6 +1,6 @@
 # DesertTempest
 Chromatic Alteration - Duteranopia
-## [‹ₛ¥ᵥ› Desert Tempest (standard; HD)](https://www.mediafire.com/file/cefsz0kgndsgbia/‹ₛ¥ᵥ›+Bongo+Cat+《Matt4132》.osk/file) 
+## [‹ₛ¥ᵥ› Desert Tempest (standard; HD)](https://www.mediafire.com/file/rnpvgppgwsauodv/%25E2%2580%25B9%25E2%2582%259B%25C2%25A5%25E1%25B5%25A5%25E2%2580%25BA_Desert_Tempest.osk/file) 
 
 Cover:
 ![Imgur](https://imgur.com/RQj4yx8.png)
