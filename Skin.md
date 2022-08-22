@@ -3,7 +3,7 @@ Chromatic Alteration - Duteranopia
 ## [‹ₛ¥ᵥ› Desert Tempest (standard; HD)](https://www.mediafire.com/file/cefsz0kgndsgbia/‹ₛ¥ᵥ›+Bongo+Cat+《Matt4132》.osk/file) 
 
 Cover:
-![Imgur](https://imgur.com/CGy3mXM.png)
+![Imgur](https://imgur.com/RQj4yx8.png)
 
 Song slect (standard):
 ![Imgur](https://imgur.com/x8mawpN.png)
