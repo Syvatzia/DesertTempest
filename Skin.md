@@ -15,7 +15,7 @@ Mods:
 ![Imgur](https://imgur.com/0otwmRA.png)
 
 Mode Selection:
-![Imgur](https://imgur.com/xF8a02W.png)
+![Imgur](https://imgur.com/ys3NwPp.png)
 
 Gameplay (standard):
 ![Imgur](https://imgur.com/6gJ3d2l.png)
