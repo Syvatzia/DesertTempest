@@ -14,6 +14,9 @@ Results screen (standard):
 Mods:
 ![Imgur](https://imgur.com/0otwmRA.png)
 
+Mode Selection:
+![Imgur](https://imgur.com/xF8a02W.png)
+
 Gameplay (standard):
 ![Imgur](https://imgur.com/6gJ3d2l.png)
 
@@ -23,10 +26,5 @@ Gameplay (mania):
 Gameplay (catch):
 ![Imgur](https://imgur.com/Vpxbumj.png)
 
-
 Gameplay (taiko):
 ![Imgur](https://imgur.com/dTXKAvL.png)
-
-Mode Selection:
-![Imgur](https://imgur.com/xF8a02W.png)
-
