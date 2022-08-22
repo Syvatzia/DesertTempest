@@ -5,8 +5,8 @@ Chromatic Alteration - Duteranopia
 Cover:
 ![Imgur](https://imgur.com/CGy3mXM.png)
 
+Song slect (standard):
 ![Imgur](https://imgur.com/x8mawpN.png)
-Song slect (standard)
 
 Results screen (standard):
 ![Imgur](https://imgur.com/kECESf2.png)
