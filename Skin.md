@@ -1,6 +1,5 @@
 # DesertTempest
-Chromatic Alteration
-## [‹ₛ¥ᵥ› Bongo Cat 《Matt4132》 (standard; HD)](https://www.mediafire.com/file/cefsz0kgndsgbia/‹ₛ¥ᵥ›+Bongo+Cat+《Matt4132》.osk/file) 
-Made for Matt4132; gameplay based off Shield
-![Imgur](https://imgur.com/L05Ha9C.png)
+Chromatic Alteration - Duteranopia
+## [‹ₛ¥ᵥ› Desert Tempest (standard; HD)](https://www.mediafire.com/file/cefsz0kgndsgbia/‹ₛ¥ᵥ›+Bongo+Cat+《Matt4132》.osk/file) 
+![Imgur](https://imgur.com/CGy3mXM.)
 ![Imgur](https://imgur.com/pJXMr85.png)
