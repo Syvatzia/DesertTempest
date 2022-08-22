@@ -12,7 +12,7 @@ Results screen (standard):
 ![Imgur](https://imgur.com/KacQzT7.png)
 
 Mods:
-![Imgur](https://imgur.com/JGEtVOM.png)
+![Imgur](https://imgur.com/0otwmRA.png)
 
 Gameplay (standard):
 ![Imgur](https://imgur.com/6gJ3d2l.png)
@@ -28,5 +28,5 @@ Gameplay (taiko):
 ![Imgur](https://imgur.com/dTXKAvL.png)
 
 Mode Selection:
-![Imgur](https://imgur.com/iuRYxvw.png)
+![Imgur](https://imgur.com/xF8a02W.png)
 
