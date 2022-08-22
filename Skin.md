@@ -1,33 +1,32 @@
 # DesertTempest
 Chromatic Alteration - Duteranopia
 ## [‹ₛ¥ᵥ› Desert Tempest (standard; HD)](https://www.mediafire.com/file/cefsz0kgndsgbia/‹ₛ¥ᵥ›+Bongo+Cat+《Matt4132》.osk/file) 
-![Imgur](https://imgur.com/CGy3mXM.png)
-Cover
 
+Cover:
+![Imgur](https://imgur.com/CGy3mXM.png)
 
 ![Imgur](https://imgur.com/x8mawpN.png)
 Song slect (standard)
 
-
+Results screen (standard):
 ![Imgur](https://imgur.com/kECESf2.png)
-Results screen (standard)
 
+Mods:
+![Imgur](https://imgur.com/JGEtVOM.png)
 
+Gameplay (standard):
 ![Imgur](https://imgur.com/6gJ3d2l.png)
-Gameplay (standard)
 
-
+Gameplay (mania):
 ![Imgur](https://imgur.com/aeLjPhM.png)
-Gameplay (mania)
 
-
+Gameplay (catch):
 ![Imgur](https://imgur.com/Vpxbumj.png)
-Gameplay (catch)
 
 
+Gameplay (taiko):
 ![Imgur](https://imgur.com/dTXKAvL.png)
-Gameplay (taiko)
 
-
+Mode Selection:
 ![Imgur](https://imgur.com/iuRYxvw.png)
-Mode Selection 
+
