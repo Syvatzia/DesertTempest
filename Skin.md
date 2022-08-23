@@ -1,7 +1,7 @@
 # DesertTempest
 Chromatic Alteration - Duteranopia
 ## [‹ₛ¥ᵥ› Desert Tempest (Standard, Mania, Taiko, CTB; HD/SD)](https://www.mediafire.com/file/rnpvgppgwsauodv/%25E2%2580%25B9%25E2%2582%259B%25C2%25A5%25E1%25B5%25A5%25E2%2580%25BA_Desert_Tempest.osk/file) 
-[‹ₛ¥ᵥ› Desert Tempest (Standard, Mania, Taiko, CTB; HD/SD) [long tail]; HD)](https://www.mediafire.com/file/rnpvgppgwsauodv/%25E2%2580%25B9%25E2%2582%259B%25C2%25A5%25E1%25B5%25A5%25E2%2580%25BA_Desert_Tempest.osk/file) 
+
 
 Cover:
 ![Imgur](https://imgur.com/RQj4yx8.png)
@@ -20,7 +20,10 @@ Mode Selection:
 
 Gameplay (standard):
 ![Imgur](https://imgur.com/6gJ3d2l.png)
+
 Gameplay (standard, long tail):
+![Imgur](https://imgur.com/VSmfENV.png)
+[‹ₛ¥ᵥ› Desert Tempest (Standard, Mania, Taiko, CTB; HD/SD) [long tail]; HD)](https://www.mediafire.com/file/rnpvgppgwsauodv/%25E2%2580%25B9%25E2%2582%259B%25C2%25A5%25E1%25B5%25A5%25E2%2580%25BA_Desert_Tempest.osk/file) 
 
 Gameplay (mania):
 ![Imgur](https://imgur.com/aeLjPhM.png)
